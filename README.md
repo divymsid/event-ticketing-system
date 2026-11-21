@@ -84,7 +84,7 @@ Synchronized booking operations help prevent concurrent booking conflicts.
 ### Clone the Repository
 
 ```bash
-git clone <git clone https://github.com/divymsid/event-ticketing-system.git>
+git clone https://github.com/divymsid/event-ticketing-system.git
 cd event-ticketing-system
 ```
 
